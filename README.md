@@ -4,5 +4,5 @@ HawkeWorks LLC is Sandro Hawke's consulting business, specializing in open stand
 
 ## Contact
 
-Email: sandro at hawke.org
-Twitter: [@sandhawke](https://twitter.com/sandhawke)
+* Email: sandro at hawke.org
+* Twitter: [@sandhawke](https://twitter.com/sandhawke)
