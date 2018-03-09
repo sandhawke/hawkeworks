@@ -1,3 +1,3 @@
-## Hawke<style "color: dark-green;">works</style> LLC
+## Hawkeworks LLC
 
 Contact: sandro@hawke.org
