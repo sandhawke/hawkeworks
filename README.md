@@ -1,6 +1,6 @@
 ## About 
 
-HawkeWorks LLC is Sandro Hawke's consulting business, specializing in open standards process and distributed/decentralized systems design and deployment.
+HawkeWorks LLC is Sandro Hawke's consulting business, specializing in open standards process and distributed/decentralized systems research, design, and deployment.
 
 ## Contact
 
