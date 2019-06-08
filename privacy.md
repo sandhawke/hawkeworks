@@ -74,11 +74,9 @@ Information Collection and Use
 We collect several different types of information for various purposes to
 provide and improve our Service to you.
 
-Types of Data Collected  
-~~~~~~~~~~~~~~~~~~~~~~~
+### Types of Data Collected  
 
-Personal Data  
-*************
+#### Personal Data  
 
 While using our Service, we may ask you to provide us with certain personally
 identifiable information that can be used to contact or identify you
@@ -95,8 +93,7 @@ You may opt out of receiving any, or all, of these communications from us by
 following the unsubscribe link or the instructions provided in any email we
 send.
 
-Usage Data  
-**********
+#### Usage Data  
 
 We may also collect information on how the Service is accessed and used
 ("Usage Data"). This Usage Data may include information such as your
@@ -105,8 +102,7 @@ version, the pages of our Service that you visit, the time and date of your
 visit, the time spent on those pages, unique device identifiers and other
 diagnostic data.
 
-Tracking &amp; Cookies Data  
-************
+#### Tracking & Cookies Data  
 
 We use cookies and similar tracking technologies to track the activity on our
 Service and we hold certain information.
@@ -203,22 +199,19 @@ your data and other personal information.
 Disclosure of Data  
 ------------------
 
-Business Transaction  
-~~~~~~~~~~~~~~~~~~~~
+### Business Transaction  
 
 If HawkeWorks LLC is involved in a merger, acquisition or asset sale, your
 Personal Data may be transferred. We will provide notice before your Personal
 Data is transferred and becomes subject to a different Privacy Policy.
 
-Disclosure for Law Enforcement  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Disclosure for Law Enforcement  
 
 Under certain circumstances, HawkeWorks LLC may be required to disclose your
 Personal Data if required to do so by law or in response to valid requests by
 public authorities (e.g. a court or a government agency).
 
-Legal Requirements  
-~~~~~~~~~~~~~~~~~~
+### Legal Requirements  
 
 HawkeWorks LLC may disclose your Personal Data in the good faith belief that
 such action is necessary to:
@@ -230,8 +223,7 @@ such action is necessary to:
   * To protect the personal safety of users of the Service or the public
   * To protect against legal liability
 
-Security of Data  
-----------------
+### Security of Data  
 
 The security of your data is important to us but remember that no method of
 transmission over the Internet or method of electronic storage is 100% secure.
