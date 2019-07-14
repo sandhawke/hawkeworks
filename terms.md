@@ -1,7 +1,7 @@
 Terms of Use  
 ============
 
-Last updated: June 08, 2019
+Last updated: July 14, 2019
 
 Please read these Terms of Use ("Terms", "Terms of Use") carefully
 before using any website (the "Service") operated by HawkeWorks LLC

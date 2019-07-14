@@ -1,0 +1,6 @@
+# These are shell variables for push-to-server
+
+# Hostname to push to
+TARGET=hawkeworks.com
+
+BUILD="rm -rf _generated && node ~/Repos/gensite/ && cd _generated"
